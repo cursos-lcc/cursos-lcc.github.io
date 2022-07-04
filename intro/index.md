@@ -9,7 +9,7 @@ hide_footer: true
 ---
 
 
-1. [Presentación sobre la Maestría en Ciencia de Datos](https://github.com/mcd-unison/curso-hpcd/raw/main/intro/MCD-rapida.pdf)
+1. [Presentación sobre Herramientas de Productividad para Ciencia de Datos](https://github.com/mcd-unison/curso-hpcd/raw/main/intro/intro.html)
 2. [La importancia del CLI en Ciencia de Datos (*Medium*)](https://towardsdatascience.com/should-you-pick-up-linux-skills-for-data-science-in-2021-9458736d156a)
 3. [Libro *Data Science at the Command Line*](https://datascienceatthecommandline.com/2e/)
 4. [Curso *Data Science: Productivity Tools*](https://www.edx.org/course/data-science-productivity-tools)
