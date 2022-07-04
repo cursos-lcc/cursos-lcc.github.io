@@ -1,6 +1,6 @@
 ---
 title: Actividades de aprendizaje
-subtitle: Para la semana del 31 de enero al 4 de febrero
+subtitle: Linea de comando y Docker
 layout: page
 show_sidebar: false
 hide_hero: true
@@ -37,8 +37,4 @@ $ docker start -at bash-curso
 ```
 
 Buena suerte y que sea muy provechosa esta semana.
-
-
-
-
 

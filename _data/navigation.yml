@@ -1,22 +1,23 @@
 - name: Contenido
   link: /#
   dropdown:
-    - name: Plan de trabajo
-      link: /programa/
-    - name: Introducción a la ciencia de datos
+    - name: Presentación y motivación
       link: /intro/
     - name: Docker
       link: /docker/
-    - name: Herramientas de UNIX
+    - name: El bash shield y su uso básico
       link: /bash/
     - name: Git y GitHub
       link: /git/
-    - name: Jupyter, Anaconda, R, RStudio
+    - name: Libretas Jupyter
       link: /jupyter/
-- name: Actividades para la semana
+- name: Actividades para practicar
   link: /#
   dropdown:
-    - name: del 11 al 16 de abril
+    - name: Linea de comando y contenedores Docker
       link: /actividades1/
-    - name: del 18 al 24 de abril
+    - name: Git y GitHub
       link: /actividades2/
+    - name: Algunos ejemplos en Colab
+      link: /actividades3/
+
