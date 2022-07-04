@@ -1,4 +1,4 @@
-![](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png)
+![](https://github.com/mcd-unison/enoan2022-i3/raw/main/img/enoan2022banner.png)
 
 # Curso Herramientas de Productividad para Ciencia de Datos
 
@@ -16,8 +16,9 @@
 - Sábado 10 de abril de 10:00 a 12:00 hrs 
 
 
-### Página web
+## Página web
 
+[https://mcd-unison.github.io/enoan2022-i3/](https://mcd-unison.github.io/enoan2022-i3/)
 
 
 ![](https://enoan2022.eventos.cimat.mx/sites/enoan2022/files/logos-enoan2022-1.png)
