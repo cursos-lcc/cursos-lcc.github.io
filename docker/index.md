@@ -17,10 +17,6 @@ hide_footer: true
 
 5. [¿Qué es Docker? por Hector Yeomans](https://comunidadti.com/que-es-docker)
 
-6. Un video de *Hector Yeomans* sobre como instalar WSL2 en Windows (necesario para instalar Docker).
+6. Un video de *Hector Yeomans* sobre como instalar WSL2 en Windows.
    
-   {% include youtube.html video="2EH52k3WyHA" %}
-
-
-
-
+{% include youtube.html video="2EH52k3WyHA" %}

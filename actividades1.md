@@ -10,9 +10,9 @@ hide_footer: true
 
 ## La linea de comando de UNIX (CLI)
 
-Para esta semana, vamos a realizar en forma autogestiva el curso de *Software Carpentry* sobre herramientas de UNIX, el cual se puede desarrollar [en ingles](http://swcarpentry.github.io/shell-novice/) o [en español](https://swcarpentry.github.io/shell-novice-es/)
+Puedes realizar en forma autogestiva el curso de *Software Carpentry* sobre herramientas de UNIX, el cual se puede desarrollar [en ingles](http://swcarpentry.github.io/shell-novice/) o [en español](https://swcarpentry.github.io/shell-novice-es/)
 
-[Aquí puedes descargar lo necesario](https://github.com/mcd-unison/curso-hpcd/raw/main/bash/imagen-docker.zip) para generar una imagen de *Docker* y crear un contenedor con todas las herramientas necesarias para el curso.
+[Aquí puedes descargar lo necesario](https://github.com/mcd-unison/enoan2022-i3/raw/main/bash/imagen-docker.zip) para generar una imagen de *Docker* y crear un contenedor con todas las herramientas necesarias para el curso.
 
 Para generar la imagen y el contenedor realiza lo siguiente:
 
@@ -37,5 +37,5 @@ y cuando salgas y quieras regresar a continuar solo es necesario ejecutar:
 $ docker start -at bash-curso
 ```
 
-Buena suerte y que sea muy provechosa esta semana.
+¡Que te diviertas!
 
