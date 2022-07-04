@@ -1,10 +1,3 @@
----
-title: Curso Herramientas de Productividad para Ciencia de Datos
-subtitle: XXX Escuela Nacional de Optimización y Análisis Numérico
-layout: page
-show_sidebar: false
----
-
 # Curso Herramientas de Productividad para Ciencia de Datos
 
 ## XXX Escuela Nacional de Optimización y Análisis Numérico
