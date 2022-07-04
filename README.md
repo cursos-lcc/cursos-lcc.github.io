@@ -1,3 +1,5 @@
+![](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png)
+
 # Curso Herramientas de Productividad para Ciencia de Datos
 
 ## XXX Escuela Nacional de Optimización y Análisis Numérico
@@ -16,7 +18,9 @@
 
 ### Página web
 
-El curso (y el diplomado en general) se encuentra respaldado por la planta académica de la [Maestría en Ciencia de datos](https://mcd.unison.mx) del [Departamento de Matemáticas de la Universidad de Sonora](https://www.mat.uson.mx/web/)
 
-[![JetBrains](img/MCDLogo.png)](https://mcd.unison.mx)
+
+![](https://enoan2022.eventos.cimat.mx/sites/enoan2022/files/logos-enoan2022-1.png)
+
+
 
