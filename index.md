@@ -7,12 +7,12 @@ hero_image: /enoan2022-i3/img/enoan2022banner.png
 hero_darken: true
 ---
 
-![](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png)
 
 ## Instructores
 
-Juan Pablo Soto Barrera (juanpablo.soto@unison.mx)
-Julio Waissman Vilanova (julio.waissman@unison.mx)
+- **Juan Pablo Soto Barrera** (`juanpablo.soto@unison.mx`)
+
+- **Julio Waissman Vilanova** (`julio.waissman@unison.mx`)
 
 ## Fechas
 
@@ -23,7 +23,10 @@ Modalidad Híbrida
 
 ## Resumen
 
-Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra lineal, probabilidad, estadística y optimización principalmente) es necesario manejar diferentes aspectos técnicos más cercanos al procesamiento de los datos. Un tema que se le suele no dar el valor necesario es al uso de las diversas herramientas que facilitan la labor de un científico de datos en su trabajo del día a día. Este curso tiene como objetivo dar a conocer y enseñar los usos básicos de algunas de estas herramientas que se han vuelto fundamentales en el desarrollo de proyectos de Ciencia de Datos: Uso de contenedores, manejadores de versiones, la línea de comandos de UNIX y las libretas Jupyter como medio de investigación reproducible.
+Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra lineal, probabilidad, estadística y optimización principalmente) es necesario manejar diferentes aspectos técnicos más cercanos al procesamiento de los datos. Un tema que se le suele no dar el valor necesario es al uso de las diversas herramientas que facilitan la labor de un científico de datos en su trabajo del día a día. 
+
+
+Este curso tiene como objetivo dar a conocer y enseñar los usos básicos de algunas de estas herramientas que se han vuelto fundamentales en el desarrollo de proyectos de Ciencia de Datos: Uso de contenedores, manejadores de versiones, la línea de comandos de UNIX y las libretas Jupyter como medio de investigación reproducible.
 
 ## Programa del curso:
 

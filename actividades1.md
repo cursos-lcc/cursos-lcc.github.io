@@ -3,7 +3,8 @@ title: Actividades de aprendizaje
 subtitle: Linea de comando y Docker
 layout: page
 show_sidebar: false
-hide_hero: true
+hero_image: /enoan2022-i3/img/data-science-banner.jpg
+hero_darken: true
 hide_footer: true
 ---
 
