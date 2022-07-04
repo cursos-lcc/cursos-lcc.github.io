@@ -3,7 +3,7 @@ title: ¿Qué es la Ciencia de datos?
 subtitle: ¿Y porqué debemos conocer estas herramientas?
 layout: page
 show_sidebar: false
-hero_image: /curso-hpcd/img/data-science-banner.jpg
+hero_image: /enoan2022-i3/img/data-science-banner.jpg
 hero_darken: true
 hide_footer: true
 ---

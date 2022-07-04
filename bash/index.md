@@ -2,7 +2,7 @@
 layout: default
 title: Herramientas de UNIX
 subtitle: y la belleza del CLI
-hero_image: /curso-hpcd/img/linuxbanner.jpg
+hero_image: /enoan2022-i3/img/linuxbanner.jpg
 hero_darken: true
 hide_footer: true
 ---

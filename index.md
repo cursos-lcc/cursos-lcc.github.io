@@ -16,11 +16,8 @@ Julio Waissman Vilanova (julio.waissman@unison.mx)
 
 ## Fechas
 
-- martes 5 de julio de 18:00 a 21:00 horas
-- miércoles 6 de julio de enero de 12:00 a 14:00 horas
-- viernes 4 de febrero de 18:00 a 20:00 horas
-- sábado 5 de febrero de 12:00 a 14:00 horas
-- sábado 12 de febrero de 12:00 a 13:00 horas
+- martes 5 de julio de 11:20 a 13:20 horas
+- miércoles 6 de julio de de 11:20 a 13:20 horas
 
 Modalidad Híbrida
 
