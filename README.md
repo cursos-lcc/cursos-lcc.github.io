@@ -4,8 +4,9 @@
 
 ## Instructores
 
-Juan Pablo Soto Barrera (juanpablo.soto@unison.mx)
-Julio Waissman Vilanova (julio.waissman@unison.mx)
+- **Juan Pablo Soto Barrera** (`juanpablo.soto@unison.mx`)
+
+- **Julio Waissman Vilanova** (`julio.waissman@unison.mx`)
 
 ## Fechas
 
