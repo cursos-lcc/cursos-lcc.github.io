@@ -5,7 +5,7 @@
       link: /intro/
     - name: Docker
       link: /docker/
-    - name: El bash shield y su uso básico
+    - name: CLI y su uso básico
       link: /bash/
     - name: Git y GitHub
       link: /git/
