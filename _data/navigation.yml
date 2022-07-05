@@ -16,7 +16,7 @@
   dropdown:
     - name: Linea de comando y contenedores Docker
       link: /actividades1/
-    - name: Git y GitHub
+    - name: Analizando datos de COVID
       link: /actividades2/
     - name: Algunos ejemplos en Colab
       link: /actividades3/
