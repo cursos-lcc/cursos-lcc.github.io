@@ -15005,6 +15005,7 @@ $ docker run -it -p out-port:in-port --name <span class="o">(</span>nombre-conte
 </ul>
 <div class="highlight"><pre><span></span>$ apt-get update
 $ apt-get install sed grep curl csvkit vim git cowsay unzip unar nano tldr
+$ apt-get install language-pack-en-base
 </pre></div>
 <ul>
 <li>Salir del contenedor (<code>ctrl-D</code>) y volver a entrar</li>
@@ -15056,9 +15057,11 @@ $ apt-get install sed grep curl csvkit vim git cowsay unzip unar nano tldr
 <h2 id="Descomprimiendo-y-revisando-los-datos">Descomprimiendo y revisando los datos<a class="anchor-link" href="#Descomprimiendo-y-revisando-los-datos">&#182;</a></h2><ul>
 <li><p>Descomprimir los archivos usando <code>unzip</code>o <code>unar</code></p>
 </li>
-<li><p>Cambiar nombre para hacerlos más manejable</p>
+<li><p>Cambiar nombre para hacerlos más manejable usando <code>mv</code></p>
 </li>
-<li><p>Revisar diccionario de datos</p>
+<li><p>Revisar diccionario de datos usando <code>in2csv</code></p>
+</li>
+<li><p>Jugar con los datos usando las herramientas de <code>csvkit</code></p>
 </li>
 </ul>
 
@@ -15149,7 +15152,11 @@ $ apt-get install sed grep curl csvkit vim git cowsay unzip unar nano tldr
 <span class="k">WORKDIR</span><span class="w"> </span><span class="s">/root</span>
 
 <span class="k">RUN</span><span class="w">  </span>apt-get -y update <span class="o">&amp;&amp;</span> <span class="se">\</span>
-     apt-get install -yq sed grep curl csvkit vim git cowsay unzip unar nano tldr
+     apt-get install -yq sed grep curl csvkit vim git cowsay unzip unar nano tldr 
+
+<span class="k">RUN</span><span class="w">  </span>apt-get install -yq locales <span class="o">&amp;&amp;</span> <span class="se">\</span>
+     locale-gen <span class="s2">&quot;en_US.UTF-8&quot;</span> <span class="o">&amp;&amp;</span> <span class="se">\</span>
+     <span class="nb">export</span> <span class="nv">LANG</span><span class="o">=</span>en_US.UTF-8
 
 <span class="k">CMD</span><span class="w"> </span><span class="p">[</span><span class="s2">&quot;bash&quot;</span><span class="p">]</span>
 </pre></div>
