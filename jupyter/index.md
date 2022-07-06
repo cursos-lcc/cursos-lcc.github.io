@@ -18,5 +18,5 @@ hide_footer: true
    - [Colaborative (Colab)](https://colab.research.google.com)
    - [Kaggle](https://www.kaggle.com/code)
    - [DeepNote](https://deepnote.com)
-   - [SageMaker](https://aws.amazon.com/es/pm/sagemaker/)
+   - [SageMaker Studio Lab](https://studiolab.sagemaker.aws)
    - [Datalore](https://datalore.jetbrains.com/)
