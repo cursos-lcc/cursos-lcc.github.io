@@ -14,5 +14,3 @@
   dropdown:
     - name: Linea de comando y contenedores Docker
       link: /actividades1/
-    - name: Analizando datos de COVID
-      link: /actividades2/
