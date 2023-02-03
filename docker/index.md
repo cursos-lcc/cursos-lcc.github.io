@@ -11,12 +11,10 @@ hide_footer: true
 
 2. [Página de Docker](https://www.docker.com)
 
-3. [Acordeón de Docker](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf)
+3. [*The Ultimate Docker Cheat Sheet*](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 
-4. [Acordeón de Dockerfiles](https://iceburn.medium.com/dockerfile-cheat-sheet-9f52aa4a99b3)
-
-5. [*The Ultimate Docker Cheat Sheet*](https://dockerlabs.collabnix.com/docker/cheatsheet/)
-
-6. Un video de *Hector Yeomans* sobre como instalar WSL2 en Windows.
-   
+4. Un video de *Hector Yeomans* sobre como instalar WSL2 en Windows.
+ 
+-
+ 
 {% include youtube.html video="2EH52k3WyHA" %}
