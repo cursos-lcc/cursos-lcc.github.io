@@ -6,7 +6,7 @@ title: Cursos de Invierno
 tagline: Licenciatura en Ciencias de la Computación - UNISON
 email: julio.waissman@unison.mx
 description: Material del curso
-baseurl: "/cursos-lcc.github.io"
+baseurl: "/"
 url: "https://cursos-lcc.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
