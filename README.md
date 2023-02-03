@@ -1,4 +1,4 @@
-![](https://github.com/mcd-unison/enoan2022-i3/raw/main/img/lcc.jpeg)
+![](https://github.com/cursos-lcc/cursos-lcc.github.io/raw/main/img/lcc.jpeg)
 
 # Curso de Invierno
 
