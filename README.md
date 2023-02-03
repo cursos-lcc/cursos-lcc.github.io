@@ -1,27 +1,22 @@
-![](https://github.com/mcd-unison/enoan2022-i3/raw/main/img/enoan2022banner.png)
+![](https://github.com/mcd-unison/enoan2022-i3/raw/main/img/lcc.jpeg)
 
-# Curso Herramientas de Productividad para Ciencia de Datos
+# Curso de Invierno
 
-## XXX Escuela Nacional de Optimización y Análisis Numérico
+## Licenciatura en Cienciad de la Computación, UNISON
 
 ## Instructores
 
-- **Juan Pablo Soto Barrera** (`juanpablo.soto@unison.mx`)
-
 - **Julio Waissman Vilanova** (`julio.waissman@unison.mx`)
 
-## Fechas
+- **Juan Pablo Soto Barrera** (`juanpablo.soto@unison.mx`)
 
-- Viernes 9 de abril de 19:00 a 21:00 hrs
-- Sábado 10 de abril de 10:00 a 12:00 hrs 
+- **Daniel Mendoza Camacho** (`daniel.mendoza@unison.mx`)
 
 
 ## Página web
 
-[https://mcd-unison.github.io/enoan2022-i3/](https://mcd-unison.github.io/enoan2022-i3/)
+[https://cursos-lcc.giithub.io](https://cursos-lcc.github.io)
 
-
-![](https://enoan2022.eventos.cimat.mx/sites/enoan2022/files/logos-enoan2022-1.png)
 
 
 
