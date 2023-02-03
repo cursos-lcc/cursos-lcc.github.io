@@ -3,7 +3,7 @@ title: Cursos de Invierno
 subtitle: Licenciatura en Ciencias de la Computación
 layout: page
 show_sidebar: false
-hero_image: /cursos-lcc.github.io/img/enoan2022banner.png
+hero_image: /img/enoan2022banner.png
 hero_darken: true
 ---
 
