@@ -2,7 +2,7 @@
 layout: default
 title: Libretas Jupyter
 subtitle: El cinturón de Batman de la ciencia de datos
-hero_image: /enoan2022-i3/img/jupyter-banner.jpg
+hero_image: /img/jupyter-banner.jpg
 hero_darken: true
 hide_footer: true
 ---
