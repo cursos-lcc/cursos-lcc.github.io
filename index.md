@@ -1,9 +1,9 @@
 ---
-title: Curso Herramientas de Productividad para Ciencia de Datos
-subtitle: XXX Escuela Nacional de Optimización y Análisis Numérico
+title: Cursos de Invierno 
+subtitle: Licenciatura en Ciencias de la Computación
 layout: page
 show_sidebar: false
-hero_image: /enoan2022-i3/img/enoan2022banner.png
+hero_image: /cursos-lcc.github.io/img/enoan2022banner.png
 hero_darken: true
 ---
 
@@ -14,25 +14,15 @@ hero_darken: true
 
 - **Julio Waissman Vilanova** (`julio.waissman@unison.mx`)
 
-## Fechas
+- **Daniel Mendoza Camacho** (`daniel.mendoza@unison.mx`)
 
-- martes 5 de julio de 11:20 a 13:20 horas
-- miércoles 6 de julio de de 11:20 a 13:20 horas
-
-Modalidad Híbrida
 
 ## Resumen
 
-Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra lineal, probabilidad, estadística y optimización principalmente) es necesario manejar diferentes aspectos técnicos más cercanos al procesamiento de los datos. Un tema que se le suele no dar el valor necesario es al uso de las diversas herramientas que facilitan la labor de un científico de datos en su trabajo del día a día. 
-
-
-Este curso tiene como objetivo dar a conocer y enseñar los usos básicos de algunas de estas herramientas que se han vuelto fundamentales en el desarrollo de proyectos de Ciencia de Datos: Uso de contenedores, manejadores de versiones, la línea de comandos de UNIX y las libretas Jupyter como medio de investigación reproducible.
+Este curso tiene como objetivo dar a conocer y enseñar los usos básicos de algunas de estas herramientas que se han vuelto fundamentales en el desarrollo de proyectos de Ciencias de la Computación: Uso de contenedores, manejadores de versiones, la línea de comandos de UNIX y las libretas Jupyter como medio de investigación reproducible.
 
 ## Programa del curso:
 
-- **Presentación y motivación**
-  1. ¿Qué es la Ciencia de Datos?
-  2. Motivación sobre la necesidad de conocer las herramientas de productividad
 - **Docker**
   1. Presentación de Docker
   2. Instalación de Docker
@@ -56,7 +46,5 @@ Este curso tiene como objetivo dar a conocer y enseñar los usos básicos de alg
 - **Libretas Jupyter**
   1. Presentación de libretas jupyter (locales y diferentes ofertas en linea)
   2. Uso básico
-
-![](https://enoan2022.eventos.cimat.mx/sites/enoan2022/files/logos-enoan2022-1.png)
 
 
