@@ -1,8 +1,6 @@
 - name: Contenido
   link: /#
   dropdown:
-    - name: Presentación y motivación
-      link: /intro/
     - name: Docker
       link: /docker/
     - name: CLI y su uso básico
