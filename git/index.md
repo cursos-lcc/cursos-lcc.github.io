@@ -2,7 +2,7 @@
 layout: default
 title: Git y GitHub
 subtitle: Uso básico para proyectos individuales y colaborativos
-hero_image: /enoan2022-i3/img/git-banner.png
+hero_image: /img/git-banner.png
 hero_darken: true
 hide_footer: true
 ---
