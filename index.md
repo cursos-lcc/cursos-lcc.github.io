@@ -10,11 +10,11 @@ hero_darken: true
 
 ## Instructores
 
+- **Daniel Mendoza Camacho** (`daniel.mendoza@unison.mx`)
+
 - **Juan Pablo Soto Barrera** (`juanpablo.soto@unison.mx`)
 
 - **Julio Waissman Vilanova** (`julio.waissman@unison.mx`)
-
-- **Daniel Mendoza Camacho** (`daniel.mendoza@unison.mx`)
 
 
 ## Resumen
