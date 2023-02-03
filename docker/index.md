@@ -2,7 +2,7 @@
 layout: default
 title: Docker
 subtitle: Qué es, instalación y uso básico
-hero_image: /enoan2022-i3/img/bannerdocker.png 
+hero_image: /cursos-lcc.github.io/img/bannerdocker.png 
 hero_darken: true
 hide_footer: true
 ---
