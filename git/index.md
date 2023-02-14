@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git y GitHub
-subtitle: Uso básico para proyectos individuales y colaborativos
+subtitle: Curso básico de Git y Github
 hero_image: /img/git-banner.png
 hero_darken: true
 hide_footer: true
