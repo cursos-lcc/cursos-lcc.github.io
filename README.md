@@ -15,7 +15,7 @@
 
 ## Página web
 
-[https://cursos-lcc.giithub.io](https://cursos-lcc.github.io)
+[https://cursos-lcc.github.io](https://cursos-lcc.github.io)
 
 
 
